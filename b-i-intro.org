@@ -1,0 +1,82 @@
+#+TITLE: b>i research group
+#+AUTHOR: Brad Collins
+#+EMAIL: brad@chenla.la
+
+#+REVEAL_PLUGINS: (classList zoom notes)
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: night
+#+REVEAL_TITLE_SLIDE: auto
+#+REVEAL_TITLE_SLIDE_BACKGROUND: nil
+#+REVEAL_TRANS: fade
+#+REVEAL_SLIDE_HEADER: <img src="./img/it-bit-logo-4.png"/>
+#+REVEAL_EXTRA_CSS: ./css/deck.css
+#+REVEAL_PLUGINS: (notes markdown highlight)
+
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+
+* You Are Here
+
+[[./img/rabbit-hole.jpg]]
+
+#+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
+#+END_NOTES
+
+* Slide 2
+** subslide 1
+#+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none)
+   - I will grow.
+   - I will shrink.
+   - I rolled in.
+   - I will fade out.
+   - I don't fragment.
+** subslide 2
+* Slide 3
+  #+ATTR_REVEAL: :frag (roll-in roll-in)
+  - list item 1
+  - list item 2
+    | a | b | c |
+    |---+---+---|
+    | 1 | 2 | 3 |
+    | 4 | 5 | 6 |
+    |---+---+---|
+* slide 4
+
+When in Rome...
+
+  #+BEGIN_SRC python
+    def f(x):
+        return x + 1
+
+    print f(5)
+  #+END_SRC
+
+
+* Toolchain
+
+This presentation was made with:
+
+  - emacs     :: http://gnu.org/software/emacs/
+  - orgmode   :: http://orgmode.org
+  - reveal.js :: https://github.com/hakimel/reveal.js
+
+  [[./img/emacs-icon.png]] [[./img/orgmode-icon.png]] [[./img/reveal-icon.png]]
+
+* Thank You
+
+  - email   :: brad@chenla.la
+  - twitter :: @deerpig
+  - github  :: http://github.com/chenla/
+  - web     :: http://chenla.la/b-i/
+  - irc     :: irc://irc.freenode.org/chenla
+
+
+
+
+
+  

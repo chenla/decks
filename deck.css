@@ -1,0 +1,9 @@
+
+.reveal section img { border: 0px; }
+
+.slide-header {
+    position: absolute;
+    top:  -30px;
+    left: -20px;
+    /* color: red; */
+                }
