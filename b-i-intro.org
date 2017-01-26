@@ -35,7 +35,19 @@ Take the Red Pill.....
    - I rolled in.
    - I will fade out.
    - I don't fragment.
+
+#+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
+#+END_NOTES
 ** subslide 2
+
+And more stuff here
+
+#+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
+#+END_NOTES
 * Slide 3
   #+ATTR_REVEAL: :frag (roll-in roll-in)
   - list item 1
@@ -45,6 +57,11 @@ Take the Red Pill.....
     | 1 | 2 | 3 |
     | 4 | 5 | 6 |
     |---+---+---|
+
+#+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
+#+END_NOTES
 * slide 4
 
 When in Rome...
@@ -57,6 +74,10 @@ When in Rome...
   #+END_SRC
 
 
+#+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
+#+END_NOTES
 * Toolchain
 
 This presentation was made with:
