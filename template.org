@@ -1,4 +1,4 @@
-#+TITLE: b>i research group at a glance
+#+TITLE: template
 #+AUTHOR: Brad Collins
 #+EMAIL: brad@chenla.la
 
@@ -18,67 +18,66 @@
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 
-* Introduction
+* You Are Here
+
+[[./img/rabbit-hole.jpg]]
+
 #+BEGIN_NOTES
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
 #+END_NOTES
 
-** It From Bit
-** Research Agenda
-** Distributed
-** Location
+* Slide 2
+** subslide 1
+#+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none)
+   - I will grow.
+   - I will shrink.
+   - I rolled in.
+   - I will fade out.
+   - I don't fragment.
 
-** Prek Leap National College of Agriculture
 #+BEGIN_NOTES
-
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
 #+END_NOTES
-* Organization
+** subslide 2
+
+And more stuff here
+
 #+BEGIN_NOTES
-
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
 #+END_NOTES
-* Studyhall: Lifelong Learning
+* Slide 3
+  #+ATTR_REVEAL: :frag (roll-in roll-in)
+  - list item 1
+  - list item 2
+    | a | b | c |
+    |---+---+---|
+    | 1 | 2 | 3 |
+    | 4 | 5 | 6 |
+    |---+---+---|
+
 #+BEGIN_NOTES
-
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
 #+END_NOTES
+* slide 4
 
-* The Labs
+When in Rome...
+
+  #+BEGIN_SRC python
+    def f(x):
+        return x + 1
+
+    print f(5)
+  #+END_SRC
+
+
 #+BEGIN_NOTES
-
+This is the beginning of the end, there is no turning back folks.
+Take the Red Pill.....
 #+END_NOTES
-** Soft Lab
-#+BEGIN_NOTES
-
-#+END_NOTES
-** Hard Lab
-#+BEGIN_NOTES
-
-#+END_NOTES
-** Wet Lab
-#+BEGIN_NOTES
-
-#+END_NOTES
-
-* Participate
-
-Join Us!
-
-  - Join the Sabbatical Program
-  - Become a Mentor
-  - Become an Intern
-  - Become an Apprentice
-  - Become a Member Organization
-  - Donate
-    - Books :: Amazon Wishlist
-    - Equipment
-    - Construction Supplies
-    - Money
-* Planned Facilities
-#+BEGIN_NOTES
-
-#+END_NOTES
-** Visualization Center
-** Expert Houses
-** Data Center & NOC
-
 * Toolchain
 
 This presentation was made with:
