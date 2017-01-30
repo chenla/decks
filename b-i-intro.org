@@ -18,7 +18,9 @@
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 
-* Introduction
+* b>i research groupo
+
+- 
 
 #+BEGIN_NOTES
  - Multi-Disciplinary (as MediaLab called themselves--antidisiplinary)
@@ -33,11 +35,56 @@
    of the Mekong River.
 #+END_NOTES
 ** It From Bit
+
+#+CAPTION: John Archibald Wheeler (1911-2008)
+[[./img/intro/john-wheeler.jpg]]
+
 #+BEGIN_NOTES
-- the name b>i (pronounced bee-eye) comes from a paper called "From It
-  to Bit" by the Physicist John Wheeler.
+- Our name b>i (pronounced bee-eye) comes from a paper called "Recent
+  Thinking about the Nature of the Physical World: It from Bit“ by the
+  Physicist John Wheeler.
+- Wheeler is known for his work on fission in the Manhatten Project, 
+  the Hydrogen Bomb and quantum physics.
+- Wheeler's role was to inspire by asking deep questions from a
+  radical conservative viewpoint and, through his questions, to
+  stimulate others’ research and discovery
+
+- NOTE for Munzer and UOT Presentation :: Though he spent most of
+     career at Princeton, he was the director of the Center for
+     Theoretical Physics at the University of Texas at Austin from
+     1976 until 1986, and the University of Texas named a lecture hall
+     after him, after his death.
+
+:SEE: [[https://en.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler - Wikipedia]]
+#+END_NOTES
+** It From Bit (cont)
+
+#+begin_quote
+The thesis /it from bit/: every /it/, every particle, every field of
+force, even the spacetime continuum itself, derives... from... answers
+to yes and no questions, binary choices, /bits/..... all things
+physical... must in the end submit to an information-theoretic
+description.
+
+-- John Archibald Wheeler (1911-2008)
+#+end_quote
+
+
+#+BEGIN_NOTES
+- In essense, Wheeler argued, the universe can be thought of as source
+  code, /information/ or /bits/ that has been compiled into the
+  physical world of space, time, matter and energy, /its/ that we see
+  around us....
+- The b>i research group uses this premise that all disciplines, be it
+  agriculture, chemistry, engineering, medicine and biology can all
+  benifit from understanding them as information systems.
+- Our logo plays on the idea of /it from bit/ as a unix command, where
+  /bits/ are compiled and saved />/ into /its/
 #+END_NOTES
 ** Distributed
+
+#+BEGIN_NOTES
+#+END_NOTES
 ** Antifragile
 #+BEGIN_NOTES
 #+END_NOTES
