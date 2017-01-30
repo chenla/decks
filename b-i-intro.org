@@ -19,10 +19,28 @@
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 
 * Introduction
+
+#+BEGIN_NOTES
+ - Multi-Disciplinary (as MediaLab called themselves--antidisiplinary)
+ - Conduct research to address critical needs, with a view to how the
+   results can be used to directly improve the lives of people in the
+   biogregions of the Lower Mekokong Subregion.
+ - b>i is a long term project that is part of Chenla to help build a
+   distributed antifragile civilization.
+ - Our first campus is located at Prek Leap National College of
+   Agriculture outside of Phnom Penh, and we have plans to build a
+   sister research group in Champasak, Laos which is also on the banks
+   of the Mekong River.
+#+END_NOTES
+** It From Bit
+#+BEGIN_NOTES
+- the name b>i (pronounced bee-eye) comes from a paper called "From It
+  to Bit" by the Physicist John Wheeler.
+#+END_NOTES
+** Distributed
+** Antifragile
 #+BEGIN_NOTES
 #+END_NOTES
-
-** It From Bit
 ** Research Agenda
 ** Distributed
 ** Location
@@ -33,7 +51,6 @@
 #+END_NOTES
 * Organization
 #+BEGIN_NOTES
-
 #+END_NOTES
 * Studyhall: Lifelong Learning
 #+BEGIN_NOTES
@@ -42,24 +59,18 @@
 
 * The Labs
 #+BEGIN_NOTES
-
 #+END_NOTES
 ** Soft Lab
 #+BEGIN_NOTES
-
 #+END_NOTES
 ** Hard Lab
 #+BEGIN_NOTES
-
 #+END_NOTES
 ** Wet Lab
 #+BEGIN_NOTES
-
 #+END_NOTES
 
-* Participate
-
-Join Us!
+* Join Us!
 
   - Join the Sabbatical Program
   - Become a Mentor
