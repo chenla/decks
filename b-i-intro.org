@@ -29,7 +29,7 @@ distributed civilization that can meet the challenges that will face
 our species and out planet over the comming decades.
 #+end_quote
 
-#+BEGIN_NOTES
+#+begin_notes
  - Multi-Disciplinary (as MediaLab called themselves--antidisiplinary)
  - Conduct research to address critical needs.
  - b>i is a long term project that is part of Chenla to help build a
@@ -38,7 +38,7 @@ our species and out planet over the comming decades.
    Agriculture outside of Phnom Penh, and we have plans to build a
    sister research group in Champasak, Laos which is also on the banks
    of the Mekong River.
-#+END_NOTES
+#+end_notes
 * b>i research group II
 
 For this to happen, technology and solutions must /scale/. So all
@@ -52,7 +52,7 @@ research and technology developed by b>i must:
   - Contribute to improve the lives of people living in the bioregions
     of the Lower Mekong River Subregion.
 
-#+BEGIN_NOTES
+#+begin_notes
  - To achieve these goals solutions must scale, with a view to how the
    results can be used to directly improve the lives of people in the
    biogregions of the Lower Mekokong Subregion.
@@ -62,13 +62,13 @@ research and technology developed by b>i must:
    Agriculture outside of Phnom Penh, and we have plans to build a
    sister research group in Champasak, Laos which is also on the banks
    of the Mekong River.
-#+END_NOTES
+#+end_notes
 * It From Bit
 
 #+CAPTION: John Archibald Wheeler (1911-2008)
 [[./img/intro/john-wheeler.jpg]]
 
-#+BEGIN_NOTES
+#+begin_notes
 - Our name b>i (pronounced bee-eye) comes from a paper called "Recent
   Thinking about the Nature of the Physical World: It from Bit“ by the
   Physicist John Wheeler.
@@ -78,14 +78,14 @@ research and technology developed by b>i must:
   radical conservative viewpoint and, through his questions, to
   stimulate others’ research and discovery
 
-- NOTE for Munzer and UOT Presentation :: Though he spent most of
+- NOTE for Munzer and UOT :: Though he spent most of
      career at Princeton, he was the director of the Center for
      Theoretical Physics at the University of Texas at Austin from
      1976 until 1986, and the University of Texas named a lecture hall
      after him, after his death.
 
 :SEE: [[https://en.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler - Wikipedia]]
-#+END_NOTES
+#+end_notes
 * It From Bit (cont)
 
 #+begin_quote
@@ -99,7 +99,7 @@ description.
 #+end_quote
 
 
-#+BEGIN_NOTES
+#+begin_notes
 - In essense, Wheeler argued, the universe can be thought of as source
   code, /information/ or /bits/ that has been compiled into the
   physical world of space, time, matter and energy, /its/ that we see
@@ -109,35 +109,40 @@ description.
   benifit from understanding them as information systems.
 - Our logo plays on the idea of /it from bit/ as a unix command, where
   /bits/ are compiled and saved />/ into /its/
-#+END_NOTES
+#+end_notes
 * Research Agenda
+#+begin_note
+#+end_note
 * Location
 
 * Prek Leap National College of Agriculture
-#+BEGIN_NOTES
-
-#+END_NOTES
+#+begin_notes
+#+end_notes
 * Organization
-#+BEGIN_NOTES
-#+END_NOTES
+#+begin_notes
+#+end_notes
 * Studyhall: Lifelong Learning
-#+BEGIN_NOTES
-
-#+END_NOTES
-
+#+begin_notes
+#+end_notes
 * The Labs
-#+BEGIN_NOTES
-#+END_NOTES
+#+begin_notes
+#+end_notes
 ** Soft Lab
-#+BEGIN_NOTES
-#+END_NOTES
+#+begin_notes
+#+end_notes
 ** Hard Lab
-#+BEGIN_NOTES
-#+END_NOTES
+#+begin_notes
+#+end_notes
 ** Wet Lab
-#+BEGIN_NOTES
-#+END_NOTES
-
+#+begin_notes
+#+end_notes
+* Planned Facilities
+#+begin_notes
+The Master Plan is being written now.
+#+end_notes
+** Visualization Center
+** Expert Houses
+** Data Center & NOC
 * Join Us!
 
   - Join the Sabbatical Program
@@ -150,13 +155,6 @@ description.
     - Equipment
     - Construction Supplies
     - Money
-* Planned Facilities
-#+BEGIN_NOTES
-
-#+END_NOTES
-** Visualization Center
-** Expert Houses
-** Data Center & NOC
 
 * Toolchain
 
