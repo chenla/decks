@@ -18,13 +18,42 @@
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 
-* b>i research groupo
+* b>i research group I
 
-- 
+#+begin_quote
+The /b>i research group/ is a multi-disciplinary research group that
+combines agriculture, biology, chemistry, engineering, architecture,
+and information science that will help mankind make the transition
+from a single global centralized civilization to a decentralized and
+distributed civilization that can meet the challenges that will face
+our species and out planet over the comming decades.
+#+end_quote
 
 #+BEGIN_NOTES
  - Multi-Disciplinary (as MediaLab called themselves--antidisiplinary)
- - Conduct research to address critical needs, with a view to how the
+ - Conduct research to address critical needs.
+ - b>i is a long term project that is part of Chenla to help build a
+   distributed antifragile civilization.
+ - Our first campus is located at Prek Leap National College of
+   Agriculture outside of Phnom Penh, and we have plans to build a
+   sister research group in Champasak, Laos which is also on the banks
+   of the Mekong River.
+#+END_NOTES
+* b>i research group II
+
+For this to happen, technology and solutions must /scale/. So all
+research and technology developed by b>i must:
+
+  - Work at very small /and/ very large scales.  We have forgotten how
+    to do many industrial processes at small scales, let alone at
+    cost-effective small scales.
+  - Whenever possible be modular, built on open designs, and work in a
+    wide range of physical, social and economic contexts.
+  - Contribute to improve the lives of people living in the bioregions
+    of the Lower Mekong River Subregion.
+
+#+BEGIN_NOTES
+ - To achieve these goals solutions must scale, with a view to how the
    results can be used to directly improve the lives of people in the
    biogregions of the Lower Mekokong Subregion.
  - b>i is a long term project that is part of Chenla to help build a
@@ -34,7 +63,7 @@
    sister research group in Champasak, Laos which is also on the banks
    of the Mekong River.
 #+END_NOTES
-** It From Bit
+* It From Bit
 
 #+CAPTION: John Archibald Wheeler (1911-2008)
 [[./img/intro/john-wheeler.jpg]]
@@ -57,7 +86,7 @@
 
 :SEE: [[https://en.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler - Wikipedia]]
 #+END_NOTES
-** It From Bit (cont)
+* It From Bit (cont)
 
 #+begin_quote
 The thesis /it from bit/: every /it/, every particle, every field of
@@ -81,18 +110,10 @@ description.
 - Our logo plays on the idea of /it from bit/ as a unix command, where
   /bits/ are compiled and saved />/ into /its/
 #+END_NOTES
-** Distributed
+* Research Agenda
+* Location
 
-#+BEGIN_NOTES
-#+END_NOTES
-** Antifragile
-#+BEGIN_NOTES
-#+END_NOTES
-** Research Agenda
-** Distributed
-** Location
-
-** Prek Leap National College of Agriculture
+* Prek Leap National College of Agriculture
 #+BEGIN_NOTES
 
 #+END_NOTES
