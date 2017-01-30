@@ -1,0 +1,11 @@
+* Chenla Presentations
+
+This repo holds all of the presentations that have been created for
+Chenla that use [[https://github.com/yjwen/org-reveal%0A][org-reveal]] and [[https://github.com/hakimel/reveal.js/][reveal.js]].
+
+All presentations are released under an MIT licence.  We have tried to
+be careful about using images that use a licence that allows reuse,
+but please let us know if we have used an image improperly. 
+
+We will provide links here when we get presentations properly hosted
+on Chenla's new website (it's coming, really).
