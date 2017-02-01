@@ -112,6 +112,15 @@ description.
 #+END_NOTES
 * Research Agenda
 * Location
+
+#+CAPTION: Prek Leap National College of Agriculture
+[[./img/intro/prekleap-map-bg.png]]
+
+#+BEGIN_NOTES
+ - b>i is on the campus of Prek Leap National College of Agriculture,
+   located about 10km north of Phnom Penh, Cambodia on the banks of
+   the Mekong River.
+#+END_NOTES
 * Prek Leap National College of Agriculture
 * Organization
 * Studyhall: Lifelong Learning
