@@ -10,7 +10,7 @@
   :VER:       551315706.936231149
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:ADI0-6130
-  :Category:  primer deploy project
+  :Category:  deploy
   :Entity:    readme
   :Status:    stub wip 
   :Licence:   MIT/CC BY-SA 4.0
