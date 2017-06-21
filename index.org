@@ -1,0 +1,25 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla Presentations | Table  of Contents
+#+STARTUP: showall
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/decks/index.org
+  :Created:   2017-06-21T18:22@Prek Leap (11.642600N-104.919210W)
+  :ID:        de095f94-5617-4095-a6a8-c59b145bd0e8
+  :VER:       551316186.838961565
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:RDA3-6552
+  :Category:  deploy
+  :Entity:    toc
+  :Status:    stub wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Table of Contents
