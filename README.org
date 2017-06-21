@@ -1,7 +1,18 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
 * Chenla Presentations
+:PROPERTIES:
+:ID:       f72d27c0-c072-44ed-9de1-9b27ffc87fef
+:Category: deploy
+:Status:   wip
+:Licence:  chenla-standard
+:END:
+
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 This repo holds all of the presentations that have been created for
