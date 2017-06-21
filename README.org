@@ -2,20 +2,25 @@
 #+STARTUP: showall
 
 * Chenla Presentations
-:PROPERTIES:
-:ID:       f72d27c0-c072-44ed-9de1-9b27ffc87fef
-:Category:  deploy
-:Entity:    readme
-:Status:    wip 
-:Licence:   MIT/CC BY-SA 4.0
-:END:
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/decks/README.org
+  :Created:   2017-06-21T18:14@Prek Leap (11.642600N-104.919210W)
+  :ID:        870ba14d-cccb-41fe-ae9a-b4cb871ebb08
+  :VER:       551315706.936231149
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:ADI0-6130
+  :Category:  primer deploy project
+  :Entity:    readme
+  :Status:    stub wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
 
 This repo holds all of the presentations that have been created for
 Chenla that use [[https://github.com/yjwen/org-reveal%0A][org-reveal]] and [[https://github.com/hakimel/reveal.js/][reveal.js]].
@@ -26,5 +31,3 @@ but please let us know if we have used an image improperly.
 
 We will provide links here when we get presentations properly hosted
 on Chenla's new website (it's coming, really).
-
-
