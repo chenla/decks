@@ -6,7 +6,7 @@
 :ID:       f72d27c0-c072-44ed-9de1-9b27ffc87fef
 :Category: deploy
 :Status:   wip
-:Licence:  chenla-standard
+:Licence:  MIT/CC BY-SA 4.0
 :END:
 
 
