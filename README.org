@@ -1,7 +1,7 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 
-* Chenla Presentations
+* Chenla Presentations | README
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/decks/README.org
@@ -31,3 +31,10 @@ but please let us know if we have used an image improperly.
 
 We will provide links here when we get presentations properly hosted
 on Chenla's new website (it's coming, really).
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/decks]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/decks]]
+
